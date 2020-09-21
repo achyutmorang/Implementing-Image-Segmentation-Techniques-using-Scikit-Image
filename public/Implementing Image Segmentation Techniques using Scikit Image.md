@@ -12,7 +12,7 @@
 
 
 
-Report --    [<img src="https://www.ewtnireland.com/wp-content/uploads/2020/06/pdf-logo-mystic-download-dos.png" alt="Download PDF" style="width:30px;height:25x;">](https://github.com/achyutmorang/Implementing-Image-Segmentation-Techniques-using-Scikit-Image/blob/master/Implementing%20Image%20Segmentation%20Techniques%20using%20Scikit%20Image.pdf)
+Report --    [<img src="https://www.ewtnireland.com/wp-content/uploads/2020/06/pdf-logo-mystic-download-dos.png" alt="Download PDF" style="width:30px;height:25x;">](https://github.com/achyutmorang/Implementing-Image-Segmentation-Techniques-using-Scikit-Image/raw/master/Implementing%20Image%20Segmentation%20Techniques%20using%20Scikit%20Image.pdf)
 
 Experiments --   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achyutmorang/Implementing-Image-Segmentation-Techniques-using-Scikit-Image/blob/master/Experiments.ipynb)    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/achyutmorang/Implementing-Image-Segmentation-Techniques-using-Scikit-Image.git/master?filepath=.%2FExperiments.ipynb)
 
